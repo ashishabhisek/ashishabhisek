@@ -1,5 +1,3 @@
-# Hi there, I'm Ashish Abhisek Panda 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Ashish%20Abhisek%20Panda&fontSize=50&fontAlignY=40&desc=AI%20%7C%20Data%20Science%20%7C%20Full%20Stack%20Engineering&descAlignY=60&animation=fadeIn" />
 </p>
