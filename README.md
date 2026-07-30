@@ -48,17 +48,6 @@ AI & Data Science Engineer with a strong foundation in Software Engineering, Mac
 
 I focus on combining modern software engineering practices with AI capabilities to build scalable products, intelligent systems, and impactful software solutions.
 
-### Open To
-
-- Software Engineering Internships
-- AI/ML Engineering Roles
-- Data Science Projects
-- Open Source Collaborations
-- Full Stack Development Opportunities
-- Research Programs
-
----
-
 # Tech Stack
 
 ### Languages
@@ -167,33 +156,6 @@ I focus on combining modern software engineering practices with AI capabilities 
 
 ---
 
-# Current Focus
-
-```yaml
-Learning:
-  - Advanced Machine Learning
-  - Deep Learning
-  - DSA
-  - Cloud Computing
-
-Building:
-  - AI Applications
-  - Full Stack Projects
-  - Open Source Contributions
-
-Exploring:
-  - Generative AI
-  - MLOps
-  - System Design
-
-Open_To:
-  - Internships
-  - Research
-  - Collaborations
-  - Software Engineering Roles
-```
-
----
 
 # Connect
 
