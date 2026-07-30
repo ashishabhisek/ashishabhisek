@@ -74,27 +74,6 @@ I focus on combining modern software engineering practices with AI capabilities 
 
 ---
 
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|-----------|
-| Machine Learning | Advanced | Supervised & Unsupervised Learning |
-| Deep Learning | Advanced | PyTorch, Neural Networks |
-| Data Analytics | Advanced | Data Cleaning & Analysis |
-| Data Visualization | Advanced | Matplotlib, Seaborn |
-| Statistical Analysis | Intermediate | Analytical Modeling |
-| NLP | Intermediate | Language Processing |
-| Computer Vision | Intermediate | Image Understanding |
-| MLOps | Beginner | Deployment Workflows |
-
-
-
-
-
-
-
-
-
 <p align="center">
 
 <a href="https://leetcode.com">
@@ -113,19 +92,6 @@ I focus on combining modern software engineering practices with AI capabilities 
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge"/>
 </a>
 
-</p>
-
----
-
-# GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ashishabhisek&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishabhisek&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=ashishabhisek&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
