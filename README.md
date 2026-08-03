@@ -104,13 +104,6 @@ I focus on combining modern software engineering practices with AI capabilities 
 
 ---
 
-# Contribution Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishabhisek&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
 
 # Contribution Snake
 
